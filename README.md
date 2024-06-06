@@ -72,7 +72,7 @@ mvn clean install
 Para ejecutar la aplicación, usa el siguiente comando:
 
 ```sh
-java -cp target/Monstruo-1.0-SNAPSHOT.jar monstruo.PruebaMonstruo
+java -cp target/Monstruo-0.0.1-SNAPSHOT.jar monstruo.PruebaMonstruo
 ```
 
 O en cualquier IDE como por ejemplo Eclipse yendo a File / Import / Maven / Existing Maven Projects, o como por ejemplo en NetBeans yendo a File / Open Project. En cuanto importes tendrás las dependencias del proyecto instaladas.
