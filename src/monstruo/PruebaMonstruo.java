@@ -13,7 +13,7 @@ import monstruo.Monstruo.Colores;
  * Clase PruebaMonstruo, que tendrá el método main() ofreciendo la posibilidad
  * de uso de nuestra clase Monstruo mediante un menú, que se llama desde la clase
  * Menu de nuestro paquete.
- * @author Oscar Delgado Huertas
+ * @author serporion
  */
 public class PruebaMonstruo {
     

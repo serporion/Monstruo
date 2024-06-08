@@ -7,7 +7,7 @@ package monstruo;
 /**
  * Clase Monstruo que tiene métodos básicos para crear,matar y mover monstruos.
  *
- * @author Oscar Delgado Huertas
+ * @author serporion
  */
 public class Monstruo {
 

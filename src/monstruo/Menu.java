@@ -7,7 +7,7 @@ package monstruo;
 /**
  * Clase que dispone del desarrollo del menú principal y de sus indicativos al menú 
  * donde nos encontramos, según la elección.
- * @author Oscar Delgado Huertas
+ * @author serporion
  */
 public class Menu {
 

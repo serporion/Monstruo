@@ -10,7 +10,7 @@ import java.util.Scanner;
 /**
  * Clase que amplia con varios métodos las acciones con nuestros Monstruos
  *
- * @author Oscar Delgado Huertas
+ * @author serporion
  */
 public class Otros {
 
