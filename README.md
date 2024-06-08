@@ -96,6 +96,6 @@ Puedes contactar de las siguientes maneras:
 
 Si tienes alguna pregunta, encuentras un problema o tienes una sugerencia, por favor, abre un issue en este repositorio. Seguiremos el progreso y las discusiones a través de los issues para mantener todo organizado.
 
-Puedes abrir un nuevo issue [aquí](https://github.com/serporion/mis-paginas-web/issues/new). Las contribuciones son bienvenidas
+Puedes abrir un nuevo issue [aquí](https://github.com/serporion/monstruo/issues/new). Las contribuciones son bienvenidas
 
 
